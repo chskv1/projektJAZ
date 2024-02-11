@@ -1,0 +1,15 @@
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/controllers/PersonController.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/model/mappers/AddressMapper.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/model/dto/AddressDTO.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/repository/PersonRepository.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/additional/JacksonConfig.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/model/Person.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/model/mappers/PersonMapper.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/model/dto/PersonDTO.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/repository/AddressRepository.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/ProjectApplication.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/exceptions/PersonNotFound.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/model/dto/PersonWithAddressesDTO.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/model/Address.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/exceptions/advicers/PersonAdvicer.java
+/Users/urijmakovskij/Desktop/Studia/MPR (MC)/project/src/main/java/com/example/project/services/PersonService.java
